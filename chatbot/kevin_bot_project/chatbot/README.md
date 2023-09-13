@@ -1,2 +1,0 @@
-# chatbot
-Django Chatterbox
