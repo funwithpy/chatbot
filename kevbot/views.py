@@ -19,13 +19,8 @@ list_to_train =[
     'Hi',
     'Hi Whats Up. How can I help you',
     'What is your name',
-    'My Name is kev the Bot',
-    'Who is your master',
-    'kevin is my creator',
-    'What is your college',
-    'SRM is my College',
-    'Your Country',
-    'I am from India'
+    'My Name is SRMBot',
+    
 ]
 
 chatterbotCorpusTrainer = ChatterBotCorpusTrainer(bot)
