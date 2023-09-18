@@ -1,0 +1,10 @@
+#python 3
+#Django
+#chatterbot
+#chatterbot-corpus
+#pyymal
+#spacy
+#jupyter
+#flask
+#pip==21.3.1
+#pytz
